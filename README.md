@@ -1,6 +1,13 @@
 # DockerSetup
 
 # Truncated Gaussian Random Fields in Docker
+Tag of Docker image pushed to Docker Hub: 
+
+sauletrep/truncated-gaussian-random-fields:latest
+
+Link: 
+
+https://hub.docker.com/r/sauletrep/truncated-gaussian-random-fields
 
 ## Overview
 I began this project by developing a Python script that visualizes the behavior of Gaussian Random Fields (GRFs) when truncated under different spatial correlation functions. This built upon a similar project I had previously implemented in R, with the goal of translating and improving it in Python.
